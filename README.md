@@ -40,3 +40,4 @@ https://www.jianshu.com/p/0130ad32a08d
   Tree-Shaking https://segmentfault.com/a/1190000012794598  
   canvas 入门实战--邀请卡生成与下载 https://segmentfault.com/a/1190000012418898  
   前端 Console 调试小技巧 https://mp.weixin.qq.com/s/0g8X8As0X5FdBdjnWWBQkQ  
+  ECMAScript 6 新特性 https://mp.weixin.qq.com/s/W1f4nfNTdMmeP8xs2Kw-pg  
