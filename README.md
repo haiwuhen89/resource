@@ -15,15 +15,15 @@ This is something that you can learn.
   
   
 # JavaScript
-  正则表达式实例 https://segmentfault.com/a/1190000012806098
-  JavaScript 的常见注意点 https://segmentfault.com/a/1190000012730162
-  js编译与执行顺序 https://blog.csdn.net/u012763269/article/details/49942939
-  常用的 JavaScript 简写方法 https://segmentfault.com/a/1190000012673854
-  JavaScript 模块讲解 https://segmentfault.com/a/1190000012464333
-  原生JS数据绑定 https://zcfy.cc/article/native-javascript-data-binding
-  JavaScript 的时间消耗 https://github.com/dwqs/blog/issues/59
-  JavaScript简化函数提升 https://mp.weixin.qq.com/s/Z5GOpr7H-S69rvHW3gHRKQ
-  JavaScript面试问题及答案 https://mp.weixin.qq.com/s/qdn_13vADwl56wNRXz4m-w
+  正则表达式实例 https://segmentfault.com/a/1190000012806098  
+  JavaScript 的常见注意点 https://segmentfault.com/a/1190000012730162  
+  js编译与执行顺序 https://blog.csdn.net/u012763269/article/details/49942939  
+  常用的 JavaScript 简写方法 https://segmentfault.com/a/1190000012673854  
+  JavaScript 模块讲解 https://segmentfault.com/a/1190000012464333  
+  原生JS数据绑定 https://zcfy.cc/article/native-javascript-data-binding  
+  JavaScript 的时间消耗 https://github.com/dwqs/blog/issues/59  
+  JavaScript简化函数提升 https://mp.weixin.qq.com/s/Z5GOpr7H-S69rvHW3gHRKQ  
+  JavaScript面试问题及答案 https://mp.weixin.qq.com/s/qdn_13vADwl56wNRXz4m-w  
 
 # 工具
   5分钟把任意网站变成桌面软件 https://segmentfault.com/a/1190000012924855
