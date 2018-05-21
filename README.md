@@ -26,15 +26,15 @@ This is something that you can learn.
   JavaScript面试问题及答案 https://mp.weixin.qq.com/s/qdn_13vADwl56wNRXz4m-w  
 
 # 工具
-  5分钟把任意网站变成桌面软件 https://segmentfault.com/a/1190000012924855
-  javascript 最长公共子序列 https://segmentfault.com/a/1190000012864957
-  10 分钟理解 JS 引擎的执行机制 https://segmentfault.com/a/1190000012806637
-  JavaScript 背包问题详解 https://segmentfault.com/a/1190000012829866
-  红黑树详细分析，看了都说好 https://segmentfault.com/a/1190000012728513
-  WebSocket https://segmentfault.com/a/1190000012709475
-  如何做一个小程序口令红包功能 https://segmentfault.com/a/1190000011014127
-  有学习借鉴作用的网站 https://segmentfault.com/a/1190000012596323
-  三种前端本地存储方式讲解 https://segmentfault.com/a/1190000012578794
-  Tree-Shaking https://segmentfault.com/a/1190000012794598
-  canvas 入门实战--邀请卡生成与下载 https://segmentfault.com/a/1190000012418898
-  前端 Console 调试小技巧 https://mp.weixin.qq.com/s/0g8X8As0X5FdBdjnWWBQkQ
+  5分钟把任意网站变成桌面软件 https://segmentfault.com/a/1190000012924855  
+  javascript 最长公共子序列 https://segmentfault.com/a/1190000012864957  
+  10 分钟理解 JS 引擎的执行机制 https://segmentfault.com/a/1190000012806637  
+  JavaScript 背包问题详解 https://segmentfault.com/a/1190000012829866  
+  红黑树详细分析，看了都说好 https://segmentfault.com/a/1190000012728513  
+  WebSocket https://segmentfault.com/a/1190000012709475  
+  如何做一个小程序口令红包功能 https://segmentfault.com/a/1190000011014127  
+  有学习借鉴作用的网站 https://segmentfault.com/a/1190000012596323  
+  三种前端本地存储方式讲解 https://segmentfault.com/a/1190000012578794  
+  Tree-Shaking https://segmentfault.com/a/1190000012794598  
+  canvas 入门实战--邀请卡生成与下载 https://segmentfault.com/a/1190000012418898  
+  前端 Console 调试小技巧 https://mp.weixin.qq.com/s/0g8X8As0X5FdBdjnWWBQkQ  
