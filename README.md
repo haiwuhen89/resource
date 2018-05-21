@@ -1,7 +1,7 @@
 # resource
 This is something that you can learn.
 
-#Markdown
+# Markdown
 https://www.jianshu.com/p/0130ad32a08d
 
 # JS Bin
