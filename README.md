@@ -13,7 +13,11 @@ https://www.jianshu.com/p/0130ad32a08d
  
 # CSS
   display 的 32 种写法 https://segmentfault.com/a/1190000012833458  
-  height:100%使用方法 https://segmentfault.com/a/1190000012707337
+  height:100%使用方法 https://segmentfault.com/a/1190000012707337  
+  打造高性能剪切动画 https://mp.weixin.qq.com/s/LXU5m5op5PZRC48VuhSeIA  
+  14 个你可能不知道的 JavaScript 调试技巧 https://mp.weixin.qq.com/s/OPJ0g8jJfPoy20wtZ2mthQ  
+  重新认识JS的this、作用域、闭包、对象 https://mp.weixin.qq.com/s/qoHAYft7gdr8h058E-zBJw  
+  
   
   
 # JavaScript
@@ -26,6 +30,10 @@ https://www.jianshu.com/p/0130ad32a08d
   JavaScript 的时间消耗 https://github.com/dwqs/blog/issues/59  
   JavaScript简化函数提升 https://mp.weixin.qq.com/s/Z5GOpr7H-S69rvHW3gHRKQ  
   JavaScript面试问题及答案 https://mp.weixin.qq.com/s/qdn_13vADwl56wNRXz4m-w  
+  JavaScript技巧 https://mp.weixin.qq.com/s/vc2A0oO23tT2xSx1BCkD5Q  
+  101条Javascript面试题整理 https://mp.weixin.qq.com/s/sXf9f1nH2XnMXMp7PmRb4g  
+  5道题看看你是否真的了解JS https://mp.weixin.qq.com/s/JczkSaw6-8tVFcYZbgL7XA  
+  setTimeout 的黑魔法 https://mp.weixin.qq.com/s/ZTnoks60TQ2S0gskRecBEA
 
 # 工具
   5分钟把任意网站变成桌面软件 https://segmentfault.com/a/1190000012924855  
