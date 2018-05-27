@@ -34,6 +34,19 @@ https://www.jianshu.com/p/0130ad32a08d
   101条Javascript面试题整理 https://mp.weixin.qq.com/s/sXf9f1nH2XnMXMp7PmRb4g  
   5道题看看你是否真的了解JS https://mp.weixin.qq.com/s/JczkSaw6-8tVFcYZbgL7XA  
   setTimeout 的黑魔法 https://mp.weixin.qq.com/s/ZTnoks60TQ2S0gskRecBEA  
+  如何避免10个常见的JavaScript错误 https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437  
+  怎么轻松学习 JavaScript https://mp.weixin.qq.com/s/HiLwCBFgHybBhnT3z2iy9A  
+  最全面的常用正则表达式大全 https://mp.weixin.qq.com/s/6ds7TSMZtJQbXdSQpJzxVw  
+  你应该知道的4种JavaScript设计模式 https://mp.weixin.qq.com/s/va29KwRlNEyZxBk05A9LQQ  
+  JavaScript错误处理和堆栈追踪  https://mp.weixin.qq.com/s/VLy3EAil6qF1hrtBQjnTXQ  
+  关于 JavaScript 的21个问题集锦  https://mp.weixin.qq.com/s/nu6VRg3BtLJIeaBDf6YICA  
+  一道常被人轻视的前端JS面试题  https://mp.weixin.qq.com/s/mkctEB6B6T5kLsS7wXSmXQ  
+  深入学习JavaScript闭包  https://mp.weixin.qq.com/s/G4Yr0NChUCgSiVX8pWOTpw  
+  JavaScript 启动性能探究  https://mp.weixin.qq.com/s/PWHKxfiPgTXkLVHPHqg64Q  
+  轻松了解JavaScript闭包 https://mp.weixin.qq.com/s/mblKA2nCOaHbQIc6LH1RnA  
+  5种JavaScript和CSS交互的方法 https://mp.weixin.qq.com/s/xsYoo2nSNJ2eBTJuP8atSw  
+  JavaScript面试问题：事件委托和this https://mp.weixin.qq.com/s/H6P443xqaGNeyeeuZF2C3Q  
+  
   
 # React
   解剖react组件的多种写法与演进 https://mp.weixin.qq.com/s/ySs7nXTyvNgUWSGpW6CHdQ  
