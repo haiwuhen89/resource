@@ -46,13 +46,17 @@ https://www.jianshu.com/p/0130ad32a08d
   React还是Vue：你该如何选择？ https://mp.weixin.qq.com/s/Sp9ZHZHMFtjMyujEk20-nw  
   React 技术栈系列教程 https://mp.weixin.qq.com/s/m55LJdI4qGcBL9HDppbGTw  
   
-
+# 算法
+  排序算法 https://mp.weixin.qq.com/s/mpSwqxDra6krU0sHAm-0eg  
+  红黑树详细分析，看了都说好 https://segmentfault.com/a/1190000012728513  
+  javascript 最长公共子序列 https://segmentfault.com/a/1190000012864957  
+  前端面试中的常见的算法问题 https://mp.weixin.qq.com/s/6oQ2-5J5gvkRLhkHst6TFQ  
+  JavaScript 背包问题详解 https://segmentfault.com/a/1190000012829866  
+  
+  
 # 工具
   5分钟把任意网站变成桌面软件 https://segmentfault.com/a/1190000012924855  
-  javascript 最长公共子序列 https://segmentfault.com/a/1190000012864957  
   10 分钟理解 JS 引擎的执行机制 https://segmentfault.com/a/1190000012806637  
-  JavaScript 背包问题详解 https://segmentfault.com/a/1190000012829866  
-  红黑树详细分析，看了都说好 https://segmentfault.com/a/1190000012728513  
   WebSocket https://segmentfault.com/a/1190000012709475  
   如何做一个小程序口令红包功能 https://segmentfault.com/a/1190000011014127  
   有学习借鉴作用的网站 https://segmentfault.com/a/1190000012596323  
