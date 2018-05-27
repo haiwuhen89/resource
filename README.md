@@ -33,7 +33,19 @@ https://www.jianshu.com/p/0130ad32a08d
   JavaScript技巧 https://mp.weixin.qq.com/s/vc2A0oO23tT2xSx1BCkD5Q  
   101条Javascript面试题整理 https://mp.weixin.qq.com/s/sXf9f1nH2XnMXMp7PmRb4g  
   5道题看看你是否真的了解JS https://mp.weixin.qq.com/s/JczkSaw6-8tVFcYZbgL7XA  
-  setTimeout 的黑魔法 https://mp.weixin.qq.com/s/ZTnoks60TQ2S0gskRecBEA
+  setTimeout 的黑魔法 https://mp.weixin.qq.com/s/ZTnoks60TQ2S0gskRecBEA  
+  
+# React
+  解剖react组件的多种写法与演进 https://mp.weixin.qq.com/s/ySs7nXTyvNgUWSGpW6CHdQ  
+  深入浅出React高阶组件 https://mp.weixin.qq.com/s/AdP-3oA9ofv9hQfDc2r7KA  
+  图解 React Virtual DOM https://mp.weixin.qq.com/s/y4E2qwDIfqTEDpHjspEl0g  
+  探索Redux的最佳实践 https://mp.weixin.qq.com/s/DyUSg_J6t1C43PDJZi8GuQ  
+  React Native 响应式布局实践 https://mp.weixin.qq.com/s/y1AB-VVQflmrCACSDpQtFA  
+  React+Redux技术栈核心要点解析（下篇）  https://mp.weixin.qq.com/s/EFM5d6K5FHyv0bZUfNXXsQ  
+  从 React 谈 Web UI 开发  https://mp.weixin.qq.com/s/w-_aEEsYLIdipoU-82cCyw  
+  React还是Vue：你该如何选择？ https://mp.weixin.qq.com/s/Sp9ZHZHMFtjMyujEk20-nw  
+  React 技术栈系列教程 https://mp.weixin.qq.com/s/m55LJdI4qGcBL9HDppbGTw  
+  
 
 # 工具
   5分钟把任意网站变成桌面软件 https://segmentfault.com/a/1190000012924855  
