@@ -86,4 +86,8 @@ https://www.jianshu.com/p/0130ad32a08d
   web项目中图标的前端处理方案 https://mp.weixin.qq.com/s/hW44FxFbBQpCdu6Mex8NcQ  
   掌握 HTTP 缓存——从请求到响应过程的一切（上） https://mp.weixin.qq.com/s/tluGR6Xc2tCjtaOLWO9q6Q  
   掌握 HTTP 缓存——从请求到响应过程的一切（下） https://mp.weixin.qq.com/s/0ZgM2jW2a0OUziBMYVnsOg  
+  HTTP请求 https://juejin.im/post/5a757d2f5188254e5c6c404a  
+  发布一个无依赖、高质量的npm https://github.com/simbawus/blog/issues/12  
+  互联网协议入门（一）  http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html  
+  构建离线web应用  https://github.com/Ge-yuan-jun/gittrends-pwa/tree/master/articles  
   
