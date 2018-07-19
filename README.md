@@ -50,6 +50,8 @@ https://www.jianshu.com/p/0130ad32a08d
   5种JavaScript和CSS交互的方法 https://mp.weixin.qq.com/s/xsYoo2nSNJ2eBTJuP8atSw  
   JavaScript面试问题：事件委托和this https://mp.weixin.qq.com/s/H6P443xqaGNeyeeuZF2C3Q  
   正则表达式回溯法原理 https://mp.weixin.qq.com/s/sT8kQkfLDvB1ahoJ6Ss0Uw  
+  js设计模式  https://www.jianshu.com/p/d8c1c426d028  
+            https://www.cnblogs.com/libin-1/p/6337115.html
   
   
 # React
