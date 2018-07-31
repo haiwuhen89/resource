@@ -96,6 +96,7 @@ https://www.jianshu.com/p/0130ad32a08d
   发布一个无依赖、高质量的npm https://github.com/simbawus/blog/issues/12  
   互联网协议入门（一）  http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html  
   构建离线web应用  https://github.com/Ge-yuan-jun/gittrends-pwa/tree/master/articles  
+  html-webpack-plugin详解 https://www.cnblogs.com/wonyun/p/6030090.html  
   
 # nodejs
   CentOS中搭建NodeJS环境 https://blog.csdn.net/u010651383/article/details/52125814  
