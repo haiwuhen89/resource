@@ -101,3 +101,6 @@ https://www.jianshu.com/p/0130ad32a08d
 # nodejs
   CentOS中搭建NodeJS环境 https://blog.csdn.net/u010651383/article/details/52125814  
   nodejs服务器部署教程一  https://segmentfault.com/a/1190000010098126  
+# vue
+  自己实现vue双向绑定  https://segmentfault.com/a/1190000014274840  
+  
