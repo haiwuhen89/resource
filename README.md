@@ -103,4 +103,7 @@ https://www.jianshu.com/p/0130ad32a08d
   nodejs服务器部署教程一  https://segmentfault.com/a/1190000010098126  
 # vue
   自己实现vue双向绑定  https://segmentfault.com/a/1190000014274840  
+  Vue源码解析  https://blog.csdn.net/fyyyr/article/details/80518768  
+              https://www.jb51.net/article/127406.htm  
+              https://www.cnblogs.com/tiedaweishao/p/8933153.html  
   
