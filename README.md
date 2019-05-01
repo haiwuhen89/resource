@@ -104,6 +104,7 @@ https://www.jianshu.com/p/0130ad32a08d
   node.js入门之一：express简单服务器搭建－Mac环境开发  https://blog.csdn.net/z040145/article/details/50425562  
   node.js入门之二：mysql的使用－Mac环境开发 https://blog.csdn.net/z040145/article/details/50435148  
   
+# vue
   自己实现vue双向绑定  https://segmentfault.com/a/1190000014274840  
   Vue源码解析  https://blog.csdn.net/fyyyr/article/details/80518768  
               https://www.jb51.net/article/127406.htm  
