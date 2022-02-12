@@ -109,4 +109,7 @@ https://www.jianshu.com/p/0130ad32a08d
   Vue源码解析  https://blog.csdn.net/fyyyr/article/details/80518768  
               https://www.jb51.net/article/127406.htm  
               https://www.cnblogs.com/tiedaweishao/p/8933153.html  
+             
+# 其他
+  史诗级更新，VSCode 可无缝调试浏览器了！ https://mp.weixin.qq.com/s/jua8A4GtdlkNU8aZBJHKXA
   
